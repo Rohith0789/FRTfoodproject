@@ -1,7 +1,6 @@
 # Future Ready Talent Project By Rohith
 I have created a wed based application named Favorites that helps the startup restaurant to sell the food to the customers in an efficient manner
-## My Website Link : https://proud-dune-03e315500.3.azurestaticapps.net
-
+## My Website Link :   https://rohith0789.github.io/FRTfoodproject/
 # Home Page
 <img width="960" alt="Screenshot 2023-08-03 234508" src="https://github.com/Rohith0789/FRTfoodproject/assets/133976742/874abf6e-4b34-4233-8ac6-0a793cb816ca">
 <img width="960" alt="Screenshot 2023-06-16 214245" src="https://github.com/Rohith0789/Foodproject/assets/133976742/ce8da39b-b639-4b0f-b3ac-59fa94313780">
